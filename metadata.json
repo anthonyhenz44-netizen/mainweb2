@@ -1,0 +1,7 @@
+{
+  "name": "Anthros Digital AI web Solutions",
+  "description": "Premium AI-powered web design for trade businesses in Rockland County. We turn static websites into 24/7 automated lead generation machines.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
